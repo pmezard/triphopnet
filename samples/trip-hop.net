@@ -1,0 +1,610 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="fr" lang="fr">
+<head>
+<title>Nos dernières chroniques - Trip-Hop.net</title>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
+<meta name="Description" content="Site consacré à la musique trip-hop, avec Portishead, Massive Attack, Morcheeba, Hooverphonic ... albums, titres, lyrics, extraits, concerts, disquaires, chat, forum, concours ..." />
+<meta name="Keywords" content="chroniques,trip-hop,portishead,morcheeba,alpha,hooverphonic,album,mp3,lyrics,paroles,musique,massive attack,concert,concerts,morcheeba,triphop,paroles,magazine,webzine,angers,gratuit,pages,page,electrotrip,electro,trip,electro-trip,cd,cds,dossier,labels,extraits,audio,titres,pochettes,images,photos,fichiers,fichier,real,concours,gagner,disques,vinyle,pochette" />
+<meta name="CATEGORY" content="musique" />
+<meta name="revisit-after" content="1 day" />
+<meta name="expires" content="never" />
+<meta name="author" content="T. Vacher" />
+<link rel="icon" type="image/png" href="http://www.trip-hop.net/favicon.png"/>
+<link rel="stylesheet" href="http://www.trip-hop.net/include/_design1.css" type="text/css" />
+ <script type="text/javascript" src="http://www.trip-hop.net/include/livesearch2.js"></script>
+ <script type="text/javascript" src="http://www.trip-hop.net/include/cacher.js"></script>
+
+<link rel="alternate" title="Trip-Hop.net RSS : les chroniques" href="http://www.trip-hop.net/rss-chroniques.xml" type="application/rss+xml" />
+<script src="http://www.google-analytics.com/urchin.js" type="text/javascript">
+</script>
+<script type="text/javascript">
+_uacct = "UA-202437-1";
+urchinTracker();
+</script>
+<script type="text/javascript">
+<!--
+//configuration
+OAS_url ='http://mfr.247realmedia.com/RealMedia/ads/';
+OAS_listpos = 'Middle,Right';
+OAS_query = '?';
+OAS_sitepage = 'www.triphop.net/rg';
+//end of configuration
+OAS_version = 10;
+OAS_rn = '001234567890'; OAS_rns = '1234567890';
+OAS_rn = new String (Math.random()); OAS_rns = OAS_rn.substring (2, 11);
+function OAS_NORMAL(pos) {
+document.write('<a href="' + OAS_url + 'click_nx.ads/' + OAS_sitepage + '/1' + OAS_rns + '@' + OAS_listpos + '!' + pos + OAS_query + '" target="_top">');
+document.write('<img src="' + OAS_url + 'adstream_nx.ads/' + OAS_sitepage + '/1' + OAS_rns + '@' + OAS_listpos + '!' + pos + OAS_query + '" border="0" alt="Click!" /></a>');
+}
+//-->
+</script>
+<script type="text/javascript">
+<!--
+OAS_version = 11;
+if (navigator.userAgent.indexOf('Mozilla/3') != -1)
+OAS_version = 10;
+if (OAS_version >= 11)
+document.write('<script type="text/javascript" src="' + OAS_url + 'adstream_mjx.ads/' + OAS_sitepage + '/1' + OAS_rns + '@' + OAS_listpos + OAS_query + '"><\/script>');
+//-->
+</script>
+<script type="text/javascript">
+<!--
+document.write('');
+function OAS_AD(pos) {
+if (OAS_version >= 11 && typeof(OAS_RICH!='undefined'))
+  OAS_RICH(pos);
+else
+  OAS_NORMAL(pos);
+}
+//-->
+</script></head>
+<body onload="liveSearchInit();">
+<div id="conteneur">
+<div id="header">
+ <div id="header_logo"><a href="http://www.trip-hop.net"><img src="http://www.trip-hop.net/images/pixel.gif" width="162" height="99" alt="Trip-Hop.net V.5" title="Trip-Hop.net V.5"/></a></div>
+<form id="form_habillage" name="form_habillage" action="" method="post">
+<label for="choix_habillage">Habillage :</label>
+<select id="choix_habillage" name="choix_habillage">
+<option value="1" selected="selected" >défaut</option>
+<option value="2"  >Mig</option>
+<option value="3"  >9th Cloud</option>
+<option value="4"  >Ma Fleur</option>
+</select>
+<input type="submit" value="GO" class="bouton_go" />
+</form>
+ <div id="banniere">   
+<script type='text/javascript'><!--//<![CDATA[
+   var m3_u = (location.protocol=='https:'?'https://partage.trip-hop.net/openx/www/delivery/ajs.php':'http://partage.trip-hop.net/openx/www/delivery/ajs.php');
+   var m3_r = Math.floor(Math.random()*99999999999);
+   if (!document.MAX_used) document.MAX_used = ',';
+   document.write ("<scr"+"ipt type='text/javascript' src='"+m3_u);
+   document.write ("?zoneid=1");
+   document.write ('&amp;cb=' + m3_r);
+   if (document.MAX_used != ',') document.write ("&amp;exclude=" + document.MAX_used);
+   document.write (document.charset ? '&amp;charset='+document.charset : (document.characterSet ? '&amp;charset='+document.characterSet : ''));
+   document.write ("&amp;loc=" + escape(window.location));
+   if (document.referrer) document.write ("&amp;referer=" + escape(document.referrer));
+   if (document.context) document.write ("&context=" + escape(document.context));
+   if (document.mmm_fo) document.write ("&amp;mmm_fo=1");
+   document.write ("'><\/scr"+"ipt>");
+//]]>--></script><noscript><a href='http://partage.trip-hop.net/openx/www/delivery/ck.php?n=ac813033&amp;cb=INSERT_RANDOM_NUMBER_HERE' target='_blank'><img src='http://partage.trip-hop.net/openx/www/delivery/avw.php?zoneid=1&amp;cb=INSERT_RANDOM_NUMBER_HERE&amp;n=ac813033' border='0' alt='' /></a></noscript>
+</div>
+
+</div>
+
+</div>
+
+<div id="cadreint">
+<div id="haut">
+ <a href="http://www.trip-hop.net/index.html" accesskey="1">Accueil</a> | <a href="http://www.trip-hop.net/news.html">News</a> | <a href="http://www.trip-hop.net/derniersajouts.html" accesskey="2">Chroniques</a> | <a id='lien_contribuez' href="http://www.trip-hop.net/contribuez.html">Contribuez !</a> | <a href="http://www.trip-hop.net/tshirts.html">T-Shirts</a> | <a href="http://www.trip-hop.net/newsletter.html">Newsletter</a> | <a href="http://www.trip-hop.net/inscription.html">S'inscrire</a> <span class="xxsmall">30sec</span>
+<form id="searchform" name="searchform"  onsubmit="return liveSearchSubmit()" method="post" action="http://www.trip-hop.net/rechercher.php">
+<div id="rechercheavancee"><a href="#" onclick="Cacher('livesearchopt');"><img src="http://www.trip-hop.net/images/_design1/button_search.png" alt="Opt." title="Options de recherche" /></a>
+</div><div id="recherchechamps"><input type="text" id="livesearch" name="q" class="textbox" onfocus="this.value='';" onkeypress="liveSearchStart('http://www.trip-hop.net/');" value="Recherche rapide" accesskey="4"/>&nbsp;<input type="submit" value="GO" class="bouton_min" />
+<input type="hidden" id="type" name="type" value="groupe" /><div id="livesearchopt"><input type="radio" id="choix1" name="choix" value="groupe" checked="checked" onclick="javascript:document.forms.searchform.type.value='groupe';Cacher('livesearchopt');"/>groupe
+<br /><input type="radio" id="choix2" name="choix" value="label" onclick="javascript:document.forms.searchform.type.value='label';Cacher('livesearchopt');" />label
+<br /><input type="radio" id="choix3" name="choix" value="album" onclick="javascript:document.forms.searchform.type.value='album';Cacher('livesearchopt');" />album
+<br /><input type="radio" id="choix4" name="choix" value="membre" onclick="javascript:document.forms.searchform.type.value='membre';Cacher('livesearchopt');" />membre
+</div>
+<div class="spacer"> </div>
+</div>
+</form>
+<div id="LSResult" style="display: none;"><div id="LSShadow">&nbsp;</div></div></div>
+<div id="gauche">
+<div id="gauchehaut"></div>
+<div id="gauchemilieu">
+
+ <h2><a href="http://www.trip-hop.net/chroniques.html">Chroniques</a></h2>
+<ul>
+<li><a href="http://www.trip-hop.net/chroniques-90-toutes-les-chroniques-musique-electro.html">toutes les chroniques</a></li>
+</ul>
+<span class="sousmenu">Par sélection :</span>
+<ul>
+<li><a href="http://www.trip-hop.net/derniersajouts.html">les derniers ajouts</a></li>
+<li><a href="http://www.trip-hop.net/indispensables.html"><span class="gras">les albums indispensables</span></a></li>
+<li><a href="http://www.trip-hop.net/chroniques-9-les-artistes-incontournables-du-trip-hop.html">les artistes incontournables du trip-hop</a></li>
+<li><a href="http://www.trip-hop.net/chroniques-1-les-auto-productions-amateur-independant.html">les auto-productions</a></li>
+<li><a href="http://www.trip-hop.net/chroniques-102-les-compilations-musique-electronique.html">les compilations</a></li>
+<li><a href="http://www.trip-hop.net/chroniques-97-la-french-touch-musique-artistes-francais.html">la "french touch"</a></li>
+<li><a href="http://www.trip-hop.net/chroniques-0-musique-trip-hop-downtempo.html">trip-hop / downtempo</a></li>
+<li><a href="http://www.trip-hop.net/chroniques-10-musique-electro-dub.html">electro-dub</a></li>
+<li><a href="http://www.trip-hop.net/chroniques-20-musique-electro-jazz.html">electro-jazz</a></li>
+<li><a href="http://www.trip-hop.net/chroniques-30-musique-electro-libre.html">electro-libre</a></li>
+<li><a href="http://www.trip-hop.net/chroniques-40-musique-acid-jazz.html">acid-jazz</a></li>
+<li><a href="http://www.trip-hop.net/chroniques-100-les-guests-musiques-electroniques-hip-hop-drum-n-bass.html">les guests</a></li>
+<li><a href="http://www.trip-hop.net/chroniques-103-les-dvds-musicaux-musique-electronique.html">les dvds</a></li>
+<li><a href="http://www.trip-hop.net/mosaique.html">la mosaïque</a></li>
+<li><a href="http://www.trip-hop.net/partenariats.html"><span class="gras">les partenariats</span></a></li>
+<li><a href="http://www.trip-hop.net/classements.html">les classements</a></li>
+</ul>
+
+  <h2><a href="http://www.trip-hop.net/interview.html">Interviews</a></h2>
+ <h2><a href="http://www.trip-hop.net/informations.html">Informations</a></h2>
+ <ul>
+ <li><a href="http://www.trip-hop.net/sorties.html">sorties de disques</a></li>
+ <li><a href="http://www.trip-hop.net/concerts.html">dates de concerts</a></li> 
+ <li><a href="http://www.trip-hop.net/festivals.html">festivals</a></li>
+ <li><a href="http://www.trip-hop.net/labels.html">labels</a></li>
+ <li><a href="http://www.trip-hop.net/radios.html">radios</a> - <a href="http://www.trip-hop.net/disquaires.html">disquaires</a></li>
+ <li><a href="http://www.trip-hop.net/spotstv.html">zics de spots TV</a></li>
+ <li><a href="http://www.trip-hop.net/bars.html">bars</a> - <a href="http://www.trip-hop.net/lectures.html">lectures</a></li>
+ </ul>
+
+<div id="partenaires">
+ <h2><a href="http://www.trip-hop.net/soutien.html">Partenaires</a></h2>
+ <ul>
+ <li><a href="http://www.amazon.fr/exec/obidos/redirect-home?site=amazon&amp;tag=triphopnet-21" target="_blank"><img src="http://www.trip-hop.net/images/amazon_g.png" alt="Amazon.fr" title="Amazon.fr : vente de CD, DVD et livres" /></a></li>
+  <li><a href="http://ad.zanox.com/ppc/?8632963C1491266768T&ULP=[[http://musique.fnac.com/s571/Electro]]" target="_blank"><img src="http://www.trip-hop.net/images/fnac_g.png" alt="Fnac.com" title="Fnac.com : vente de CD, DVD et livre" /></a></li>
+ <li><a href="http://track.effiliation.com/servlet/effi.click?id_compteur=11014818&amp;tracking=62001" target="_blank"><img src="http://www.trip-hop.net/images/priceminister_g.png" alt="Priceminister" title="Priceminister : vente à moitié prix de CD, DVD et livres" /></a></li>
+ <li><a href="http://clk.tradedoubler.com/click?p=2701&a=924159&g=16244&amp;partnerId=2003&amp;url=http://phobos.apple.com/WebObjects/MZStore.woa/wa/viewGenre?id=7" target="_blank"><img src="http://www.trip-hop.net/images/itunes_g.png" alt="Itunes" title="Itunes : télécharger vos albums, clips et films" /></a></li>
+ <li><a href="http://ad.zanox.com/ppc/?7993337C147255198T&ULP=[[http://plateforme.fnacspectacles.com/place-spectacle/Concert/Pop-Rock---Musique-electronique-p304216639723798601.htm]]" target="_blank"><img src="http://www.trip-hop.net/images/fnac_concerts_g.png" alt="Acheter ses places de concerts sur Fnac.com" title="Fnac.com : vente de billets de concerts, spectacles, sports" /></a></li>
+ <li><a href="http://clk.tradedoubler.com/click?p=2701&a=924159&g=16244" target="_blank"><img src="http://www.trip-hop.net/images/apple_g.png" alt="Apple Store" title="Apple Store : iPod et produits High Tech" /></a></li>
+ </ul>
+</div>
+</div>
+<div id="gauchebas"></div>
+</div>
+<div id="carredroit">
+<span class="publicite">Publicité</span><br />
+	<script type="text/javascript">
+		<!--
+		OAS_AD('Middle');
+		//-->
+	</script>
+ </div>
+ 
+<div id="sky">
+<span class="publicite">Publicité</span><br />
+<script type='text/javascript'><!--//<![CDATA[
+   var m3_u = (location.protocol=='https:'?'https://partage.trip-hop.net/candy/www/delivery/ajs.php':'http://partage.trip-hop.net/candy/www/delivery/ajs.php');
+   var m3_r = Math.floor(Math.random()*99999999999);
+   if (!document.MAX_used) document.MAX_used = ',';
+   document.write ("<scr"+"ipt type='text/javascript' src='"+m3_u);
+   document.write ("?zoneid=1");
+   document.write ('&amp;cb=' + m3_r);
+   if (document.MAX_used != ',') document.write ("&amp;exclude=" + document.MAX_used);
+   document.write (document.charset ? '&amp;charset='+document.charset : (document.characterSet ? '&amp;charset='+document.characterSet : ''));
+   document.write ("&amp;loc=" + escape(window.location));
+   if (document.referrer) document.write ("&amp;referer=" + escape(document.referrer));
+   if (document.context) document.write ("&context=" + escape(document.context));
+   if (document.mmm_fo) document.write ("&amp;mmm_fo=1");
+   document.write ("'><\/scr"+"ipt>");
+//]]>--></script><noscript><a href='http://partage.trip-hop.net/candy/www/delivery/ck.php?n=a8aaf69c&amp;cb=1278698675798' target='_blank'><img src='http://partage.trip-hop.net/candy/www/delivery/avw.php?zoneid=1&amp;cb=1278698675798&amp;n=a8aaf69c' border='0' alt='' /></a></noscript>
+
+ </div>
+<div id="centre">
+<div id="centrehaut"></div>
+<div id="centremilieu">
+<div id="navigation"><h1>> <a href="http://www.trip-hop.net/chroniques.html">Chroniques</a> > Nos dernières chroniques</h1></div><div id="grosses-sorties">
+<h3>"Grosses" sorties</h3><div class="icone_rss"><a href="http://www.trip-hop.net/rss.html"><img src="http://www.trip-hop.net/images/button_xml.png" alt="XML" title="syndication RSS" /></a></div><div class="chronique_home"><div class="groupe_jacquette"><a href="http://www.trip-hop.net/album-2487-submotion-orchestra-finest-hour-exceptional-records.html"><img src="http://www.trip-hop.net/images/jacquettes/2487.jpg" alt="Submotion orchestra - Finest hour" title="Submotion orchestra - Finest hour" /></a></div>
+<img src="http://www.trip-hop.net/images/_design1/disque.png" width="47" height="88" alt="" class="disquesortant" /><h4><a href="http://www.trip-hop.net/groupe-1464-submotion-orchestra.html">Submotion orchestra</a>
+ - <a href="http://www.trip-hop.net/album-2487-submotion-orchestra-finest-hour-exceptional-records.html">Finest hour</a> (<a href="http://www.trip-hop.net/label-684-exceptional-records.html">Exceptional records</a>)
+</h4>
+<p>Submotion/&eacute;motion, ou le plaisir de se jouer de votre palpitant. Il est question de mouvements, d'oscillations, de vibrations... Vous &ecirc;tes &eacute;veill&eacute;(e), s&ucirc;rement &eacute;mu(e), vous vibrez, vous ressentez ce frisson qui voyage en vous... Vous &ecirc;tes en train de vous laisser porter par le Submotion Orchestra qu...</p>
+<div class="der_miseenligne">Mise en ligne : 31 Mars 2012</div>
+</div>
+<div class="chronique_home"><div class="groupe_jacquette"><a href="http://www.trip-hop.net/album-2439-c2c-down-the-road-ep-on-and-on.html"><img src="http://www.trip-hop.net/images/jacquettes/2439.jpg" alt="C2C - Down the road EP" title="C2C - Down the road EP" /></a></div>
+<img src="http://www.trip-hop.net/images/_design1/disque.png" width="47" height="88" alt="" class="disquesortant" /><h4><a href="http://www.trip-hop.net/groupe-1003-c2c.html">C2C</a>
+ - <a href="http://www.trip-hop.net/album-2439-c2c-down-the-road-ep-on-and-on.html">Down the road EP</a> (<a href="http://www.trip-hop.net/label-676-on-and-on.html">On and On</a>)
+</h4>
+<p>&quot;SERIEUX ????? NAN, MAIS SERIEUUUUUUUUUX ???&quot;
+
+Voila, quelle fut ma r&eacute;action, quand j'appris mercredi dernier, que le collectif de DJ nantais C2C avait sorti son premier EP, deux jours auparavant.
+Apr&egrave;s avoir consciencieusement donn&eacute; mon argent &agrave; une plateforme de t&eacute;l&eacute;chargement l&eacute;gale (!), me vo...</p>
+<div class="der_miseenligne">Mise en ligne : 28 Janvier 2012</div>
+</div>
+<div class="chronique_home"><div class="groupe_jacquette"><a href="http://www.trip-hop.net/album-2411-stuart-mccallum-distilled-naim-label.html"><img src="http://www.trip-hop.net/images/jacquettes/2411.jpg" alt="Stuart McCallum - Distilled" title="Stuart McCallum - Distilled" /></a></div>
+<img src="http://www.trip-hop.net/images/_design1/disque.png" width="47" height="88" alt="" class="disquesortant" /><h4><a href="http://www.trip-hop.net/groupe-1420-stuart-mccallum.html">Stuart McCallum</a>
+ - <a href="http://www.trip-hop.net/album-2411-stuart-mccallum-distilled-naim-label.html">Distilled</a> (<a href="http://www.trip-hop.net/label-668-naim-label.html">Naim label</a>)
+</h4>
+<p>J'&eacute;tais chez moi l'autre soir, tout seul, en train de me demander ce que j'allais bien pouvoir &eacute;couter. Un coup d'oeil sur le bureau et l&agrave;, la pile de Cds qui s'entassaient me rappelait le retard qui s'accumulait tout autant. J'ai alors pris un CD en vrac, sans jaquette, avec en gros &eacute;crit Distilled...</p>
+<div class="der_miseenligne">Mise en ligne : 12 Décembre 2011</div>
+</div>
+<div class="chronique_home"><div class="groupe_jacquette"><a href="http://www.trip-hop.net/album-2394-death-in-vegas-trans-love-energies-portobello-records.html"><img src="http://www.trip-hop.net/images/jacquettes/2394.jpg" alt="Death in Vegas - Trans-love energies" title="Death in Vegas - Trans-love energies" /></a></div>
+<img src="http://www.trip-hop.net/images/_design1/disque.png" width="47" height="88" alt="" class="disquesortant" /><h4><a href="http://www.trip-hop.net/groupe-173-death-in-vegas.html">Death in Vegas</a>
+ - <a href="http://www.trip-hop.net/album-2394-death-in-vegas-trans-love-energies-portobello-records.html">Trans-love energies</a> (<a href="http://www.trip-hop.net/label-660-portobello-records.html">Portobello records</a>)
+</h4>
+<p>Enfin, 7 ans apr&egrave;s la sortie de Satan Circus, Death In Vegas, l'un des groupes mythiques du trip-hop revient &agrave; nous. On ne l'attendait presque plus. Berc&eacute; par Dirge, Twist And Crawl ou encore Hands Around My Throat ce nouvel album porte les espoirs de retrouver ces pistes qui semblaient ne jamais vo...</p>
+<div class="der_miseenligne">Mise en ligne : 03 Décembre 2011</div>
+</div>
+<div class="chronique_home"><div class="groupe_jacquette"><a href="http://www.trip-hop.net/album-2400-massive-attack-vs-burial-four-walls-paradise-circus-the-vinyl-factory.html"><img src="http://www.trip-hop.net/images/jacquettes/2400.jpg" alt="Massive Attack vs Burial - Four walls / Paradise circus" title="Massive Attack vs Burial - Four walls / Paradise circus" /></a></div>
+<img src="http://www.trip-hop.net/images/_design1/disque.png" width="47" height="88" alt="" class="disquesortant" /><h4><a href="http://www.trip-hop.net/groupe-1412-massive-attack-vs-burial.html">Massive Attack vs Burial</a>
+ - <a href="http://www.trip-hop.net/album-2400-massive-attack-vs-burial-four-walls-paradise-circus-the-vinyl-factory.html">Four walls / Paradise circus</a> (<a href="http://www.trip-hop.net/label-661-the-vinyl-factory.html">The vinyl factory</a>)
+</h4>
+<p>Edit&eacute; &agrave; 1000 exemplaires dans une version vinyle exclusivement, cette collaboration entre Massive Attack et Burial intrigue. La vieille garde trip-hop vs la jeune garde dubstep... ou plus exactement les anciens AVEC les modernes. Coup de g&eacute;nie ou simple effet de pub ?
+Avec 2 pistes de 11'57 (Four w...</p>
+<div class="der_miseenligne">Mise en ligne : 23 Novembre 2011</div>
+</div>
+<div class="chronique_home"><div class="groupe_jacquette"><a href="http://www.trip-hop.net/album-2395-zenzile-5-1-box-set-yotanka.html"><img src="http://www.trip-hop.net/images/jacquettes/2395.jpg" alt="Zenzile - 5 + 1 Box set" title="Zenzile - 5 + 1 Box set" /></a></div>
+<img src="http://www.trip-hop.net/images/_design1/disque.png" width="47" height="88" alt="" class="disquesortant" /><h4><a href="http://www.trip-hop.net/groupe-114-zenzile.html">Zenzile</a>
+ - <a href="http://www.trip-hop.net/album-2395-zenzile-5-1-box-set-yotanka.html">5 + 1 Box set</a> (<a href="http://www.trip-hop.net/label-383-yotanka.html">Yotanka</a>)
+</h4>
+<p>En 2000, Zenzile lan&ccedil;ait le concept 5 +1. Le principe : associer le quintet &agrave; une voix chaque fois diff&eacute;rente sur une s&eacute;rie de maxi exp&eacute;rimentaux m&eacute;langeant dub chant&eacute; et dub 100% instrumental. En mai de cette m&ecirc;me ann&eacute;e, Jamika, devenue depuis la voix f&eacute;minine incontournable du groupe angevin, fut ...</p>
+<div class="der_miseenligne">Mise en ligne : 22 Novembre 2011</div>
+</div>
+<div class="chronique_home"><div class="groupe_jacquette"><a href="http://www.trip-hop.net/album-2393-neat-beats-cosmic-surgery-bandcampcom.html"><img src="http://www.trip-hop.net/images/jacquettes/2393.jpg" alt="Neat Beats - Cosmic surgery" title="Neat Beats - Cosmic surgery" /></a></div>
+<img src="http://www.trip-hop.net/images/_design1/disque.png" width="47" height="88" alt="" class="disquesortant" /><h4><a href="http://www.trip-hop.net/groupe-1411-neat-beats.html">Neat Beats</a>
+ - <a href="http://www.trip-hop.net/album-2393-neat-beats-cosmic-surgery-bandcampcom.html">Cosmic surgery</a> (<a href="http://www.trip-hop.net/label-528-bandcampcom.html">Bandcamp.com</a>)
+</h4>
+<p>Mon coup de coeur de cette fin d'ann&eacute;e ...
+
+Neat Beats nous livre avec Cosmic surgery son premier LP . Un album qu'il a longtemps travaill&eacute;, et &ccedil;a se voit. Les morceaux qui le composent sont tr&egrave;s vari&eacute;s (abstract hip-hop, drum &amp; bass ...) mais le son pr&eacute;dominant reste le glitch et le glitch-hop (c...</p>
+<div class="der_miseenligne">Mise en ligne : 19 Novembre 2011</div>
+</div>
+<div class="chronique_home"><div class="groupe_jacquette"><a href="http://www.trip-hop.net/album-2392-m83-hurry-up-were-dreaming-naive.html"><img src="http://www.trip-hop.net/images/jacquettes/2392.jpg" alt="M83 - Hurry up, we're dreaming" title="M83 - Hurry up, we're dreaming" /></a></div>
+<img src="http://www.trip-hop.net/images/_design1/disque.png" width="47" height="88" alt="" class="disquesortant" /><h4><a href="http://www.trip-hop.net/groupe-456-m83.html">M83</a>
+ - <a href="http://www.trip-hop.net/album-2392-m83-hurry-up-were-dreaming-naive.html">Hurry up, we're dreaming</a> (<a href="http://www.trip-hop.net/label-81-naive.html">Naïve</a>)
+</h4>
+<p>D&eacute;sormais install&eacute; &agrave; Los Angeles, Anthony Gonzalez, alias l'unique faiseur de M83 depuis le d&eacute;part de son acolyte Nicolas Fromageau en 2004 apr&egrave;s la sortie et la tourn&eacute;e de leur deuxi&egrave;me album commun Dead cities, red seas &amp; Lost ghosts (il tient maintenant les manettes de Team Ghost), peut l&eacute;gitimem...</p>
+<div class="der_miseenligne">Mise en ligne : 19 Novembre 2011</div>
+</div>
+<div class="chronique_home"><div class="groupe_jacquette"><a href="http://www.trip-hop.net/album-2368-dj-shadow-the-less-you-know-the-better-island.html"><img src="http://www.trip-hop.net/images/jacquettes/2368.jpg" alt="DJ Shadow - The less you know, the better" title="DJ Shadow - The less you know, the better" /></a></div>
+<img src="http://www.trip-hop.net/images/_design1/disque.png" width="47" height="88" alt="" class="disquesortant" /><h4><a href="http://www.trip-hop.net/groupe-17-dj-shadow.html">DJ Shadow</a>
+ - <a href="http://www.trip-hop.net/album-2368-dj-shadow-the-less-you-know-the-better-island.html">The less you know, the better</a> (<a href="http://www.trip-hop.net/label-33-island.html">Island</a>)
+</h4>
+<p>DJ Shadow a un lourd h&eacute;ritage &agrave; porter. Son propre h&eacute;ritage. L'h&eacute;ritage &quot;Endtroducing...&quot;... C'est le probl&egrave;me quand on sort un premier album dans un style musical qu'on a pratiquement invent&eacute;, l'abstract hip-hop, et que ce premier album est un classique intersid&eacute;ral adul&eacute; par des millions de fans. ...</p>
+<div class="der_miseenligne">Mise en ligne : 08 Novembre 2011</div>
+</div>
+<div class="chronique_home"><div class="groupe_jacquette"><a href="http://www.trip-hop.net/album-2338-idem-the-good-side-of-the-rain-yotanka.html"><img src="http://www.trip-hop.net/images/jacquettes/2338.jpg" alt="Idem - The good side of the rain" title="Idem - The good side of the rain" /></a></div>
+<img src="http://www.trip-hop.net/images/_design1/disque.png" width="47" height="88" alt="" class="disquesortant" /><h4><a href="http://www.trip-hop.net/groupe-187-idem.html">Idem</a>
+ - <a href="http://www.trip-hop.net/album-2338-idem-the-good-side-of-the-rain-yotanka.html">The good side of the rain</a> (<a href="http://www.trip-hop.net/label-383-yotanka.html">Yotanka</a>)
+</h4>
+<p>Des guitares hurlantes comme le vent ou stridentes comme l'&eacute;clair, des drums tonnantes et assourdissantes, port&eacute;es par une basse qui assombrit et plombe une atmosph&egrave;re lourde et orageuse : de Absent without leave, sorti en mai 2002, &agrave; The 6th aspiration museum overview, chaque album d'IDEM claque te...</p>
+<div class="der_miseenligne">Mise en ligne : 07 Novembre 2011</div>
+</div>
+<div class="chronique_home"><div class="groupe_jacquette"><a href="http://www.trip-hop.net/album-2363-kanka-dub-communication-hammerbass.html"><img src="http://www.trip-hop.net/images/jacquettes/2363.jpg" alt="Kanka - Dub communication" title="Kanka - Dub communication" /></a></div>
+<img src="http://www.trip-hop.net/images/_design1/disque.png" width="47" height="88" alt="" class="disquesortant" /><h4><a href="http://www.trip-hop.net/groupe-722-kanka.html">Kanka</a>
+ - <a href="http://www.trip-hop.net/album-2363-kanka-dub-communication-hammerbass.html">Dub communication</a> (<a href="http://www.trip-hop.net/label-123-hammerbass.html">Hammerbass</a>)
+</h4>
+<p>Une grosse caisse qui mart&egrave;le. Une  sourde ligne de basse omnipr&eacute;sente. Une profusion d'artifices &eacute;lectro. Telles sont les bases de Dub communication, le dernier cocktail musical concoct&eacute; par Kanka, l'un des fers de lance de la sc&egrave;ne dub fran&ccedil;aise, grand inspirateur des sounds system europ&eacute;ens et au...</p>
+<div class="der_miseenligne">Mise en ligne : 06 Novembre 2011</div>
+</div>
+<div class="chronique_home"><div class="groupe_jacquette"><a href="http://www.trip-hop.net/album-2356-apparat-the-devils-walk-mute-records.html"><img src="http://www.trip-hop.net/images/jacquettes/2356.jpg" alt="Apparat - The devil's walk" title="Apparat - The devil's walk" /></a></div>
+<img src="http://www.trip-hop.net/images/_design1/disque.png" width="47" height="88" alt="" class="disquesortant" /><h4><a href="http://www.trip-hop.net/groupe-1007-apparat.html">Apparat</a>
+ - <a href="http://www.trip-hop.net/album-2356-apparat-the-devils-walk-mute-records.html">The devil's walk</a> (<a href="http://www.trip-hop.net/label-59-mute-records.html">Mute Records</a>)
+</h4>
+<p>J'attendais beaucoup de cet album au titre &eacute;vocateur, je me suis empress&eacute;e de  l'&eacute;couter et de l'&eacute;couter encore pour qu'au final il me reste dans l'estomac. Un sentiment d'inachev&eacute;, comme si l'artiste avait voulu de fa&ccedil;on trop radicale prendre une tournure folk-electronica o&ugrave; m&ecirc;me les matins d'hiver...</p>
+<div class="der_miseenligne">Mise en ligne : 03 Novembre 2011</div>
+</div>
+<p class="suite"><a href="http://www.trip-hop.net/derniersajouts-1.html#grosses-sorties">suivants</a></p></div>
+<div id="dernieres-chroniques">
+<h3>Chroniques</h3><div class="icone_rss"><a href="http://www.trip-hop.net/rss.html"><img src="http://www.trip-hop.net/images/button_xml.png" alt="XML" title="syndication RSS" /></a></div><div class="chronique_home"><div class="groupe_jacquette"><a href="http://www.trip-hop.net/album-2484-i-monster-a-dense-swarm-of-ancient-stars-twins-of-evil.html"><img src="http://www.trip-hop.net/images/jacquettes/2484.jpg" alt="I Monster - A dense swarm of ancient stars" title="I Monster - A dense swarm of ancient stars" /></a></div>
+<img src="http://www.trip-hop.net/images/_design1/disque.png" width="47" height="88" alt="" class="disquesortant" /><h4><a href="http://www.trip-hop.net/groupe-349-i-monster.html">I Monster</a>
+ - <a href="http://www.trip-hop.net/album-2484-i-monster-a-dense-swarm-of-ancient-stars-twins-of-evil.html">A dense swarm of ancient stars</a> (<a href="http://www.trip-hop.net/label-683-twins-of-evil.html">Twins of evil</a>)
+</h4>
+<p>J'attendais avec beaucoup d'impatience le nouvel album de I Monster. Il faut avouer que leur album Neveroddoreven &eacute;tait vraiment, mais vraiment bon. Avec un petit c&ocirc;t&eacute; m&eacute;lancolique penchant vers la d&eacute;pression, il avait a r&eacute;ussi &agrave; faire r&ecirc;ver plus d'un d'entre nous. Avec ce nouvel album on quitte le ...</p>
+<div class="der_miseenligne">Mise en ligne : 26 Mars 2012</div>
+</div>
+<div class="chronique_home"><div class="groupe_jacquette"><a href="http://www.trip-hop.net/album-2477-red-fish-dub-syndrom-reflection-auto-production.html"><img src="http://www.trip-hop.net/images/jacquettes/2477.jpg" alt="Red fish dub syndrom - Reflection" title="Red fish dub syndrom - Reflection" /></a></div>
+<img src="http://www.trip-hop.net/images/_design1/disque.png" width="47" height="88" alt="" class="disquesortant" /><h4><a href="http://www.trip-hop.net/groupe-1459-red-fish-dub-syndrom.html">Red fish dub syndrom</a>
+ - <a href="http://www.trip-hop.net/album-2477-red-fish-dub-syndrom-reflection-auto-production.html">Reflection</a> (<a href="http://www.trip-hop.net/label-175-auto-production.html">Auto-production</a>)
+</h4>
+<p>Red fish dub syndrom est un groupe qui nous a &eacute;t&eacute; recommand&eacute; en interne, par un des membres de l'&eacute;quipe qui nous proposait de d&eacute;couvrir ce groupe de dub qu'il connait et &agrave; qui il apporte son soutien. En bon fan de dub que je suis, j'ai r&eacute;pondu &quot;Je prends!', ma curiosit&eacute; ayant &eacute;t&eacute; piqu&eacute;e par le tease...</p>
+<div class="der_miseenligne">Mise en ligne : 13 Mars 2012</div>
+</div>
+<div class="chronique_home"><div class="groupe_jacquette"><a href="http://www.trip-hop.net/album-2476-jamin-winans-ink-auto-production.html"><img src="http://www.trip-hop.net/images/jacquettes/2476.jpg" alt="Jamin Winans - Ink" title="Jamin Winans - Ink" /></a></div>
+<img src="http://www.trip-hop.net/images/_design1/disque.png" width="47" height="88" alt="" class="disquesortant" /><h4><a href="http://www.trip-hop.net/groupe-1456-jamin-winans.html">Jamin Winans</a>
+ - <a href="http://www.trip-hop.net/album-2476-jamin-winans-ink-auto-production.html">Ink</a> (<a href="http://www.trip-hop.net/label-175-auto-production.html">Auto-production</a>)
+</h4>
+<p>Film de science-fiction / fantastique, Ink s'est vu noy&eacute; dans la masse des grosses productions lors de sa sortie au cin&eacute;ma en 2009. Le r&eacute;alisateur, Jamin Winans, n'en &eacute;tait pourtant pas &agrave; son premier long m&eacute;trage. Dans un tout autre genre, 11 : 59, &eacute;tait lui aussi bourr&eacute; de qualit&eacute;s et surtout celle...</p>
+<div class="der_miseenligne">Mise en ligne : 03 Mars 2012</div>
+</div>
+<div class="chronique_home"><div class="groupe_jacquette"><a href="http://www.trip-hop.net/album-2475-infrazer-invaders-riddim-subwave-records.html"><img src="http://www.trip-hop.net/images/jacquettes/2475.jpg" alt="InfraZer - Invaders riddim" title="InfraZer - Invaders riddim" /></a></div>
+<img src="http://www.trip-hop.net/images/_design1/disque.png" width="47" height="88" alt="" class="disquesortant" /><h4><a href="http://www.trip-hop.net/groupe-1092-infrazer.html">InfraZer</a>
+ - <a href="http://www.trip-hop.net/album-2475-infrazer-invaders-riddim-subwave-records.html">Invaders riddim</a> (<a href="http://www.trip-hop.net/label-477-subwave-records.html">Subwave Records</a>)
+</h4>
+<p>Invaders riddim, le second album du quartet InfraZer, a b&eacute;n&eacute;fici&eacute; d'une r&eacute;alisation parfaitement ma&icirc;tris&eacute;e. Compositions soign&eacute;es, arrangements  l&eacute;ch&eacute;s, orchestration au cordeau, samples et effets pos&eacute;s comme il faut. Techniquement, rien &agrave; dire. Mais cette qualit&eacute;- l&agrave; suffit-elle pour autant &agrave; produ...</p>
+<div class="der_miseenligne">Mise en ligne : 01 Mars 2012</div>
+</div>
+<div class="chronique_home"><div class="groupe_jacquette"><a href="http://www.trip-hop.net/album-2474-leaf-rooted-from-wihin-auto-production.html"><img src="http://www.trip-hop.net/images/jacquettes/2474.jpg" alt="Leaf - Rooted from wihin" title="Leaf - Rooted from wihin" /></a></div>
+<img src="http://www.trip-hop.net/images/_design1/disque.png" width="47" height="88" alt="" class="disquesortant" /><h4><a href="http://www.trip-hop.net/groupe-1455-leaf.html">Leaf</a>
+ - <a href="http://www.trip-hop.net/album-2474-leaf-rooted-from-wihin-auto-production.html">Rooted from wihin</a> (<a href="http://www.trip-hop.net/label-175-auto-production.html">Auto-production</a>)
+</h4>
+<p>Rooted from within est un album d'abstract hip-hop comme je les aime. Leaf ne cherchant pas &agrave; d&eacute;montrer un savoir faire technique, privil&eacute;giant l'ambiance en installant une atmosph&egrave;re particuli&egrave;re. Si cette atmosph&egrave;re nous happe, on ne sera pas surpris &agrave; frissonner.
+
+Les pistes sont pour la plupar...</p>
+<div class="der_miseenligne">Mise en ligne : 29 Février 2012</div>
+</div>
+<div class="chronique_home"><div class="groupe_jacquette"><a href="http://www.trip-hop.net/album-2471-stekri-la-main-gauche-dtracks-shyugosha-versus-dezordr.html"><img src="http://www.trip-hop.net/images/jacquettes/2471.jpg" alt="Stekri / La main gauche / Dtracks / Shyugosha - Versus" title="Stekri / La main gauche / Dtracks / Shyugosha - Versus" /></a></div>
+<img src="http://www.trip-hop.net/images/_design1/disque.png" width="47" height="88" alt="" class="disquesortant" /><h4><a href="http://www.trip-hop.net/groupe-1454-stekri-la-main-gauche-dtracks-shyugosha.html">Stekri / La main gauche / Dtracks / Shyugosha</a>
+ - <a href="http://www.trip-hop.net/album-2471-stekri-la-main-gauche-dtracks-shyugosha-versus-dezordr.html">Versus</a> (<a href="http://www.trip-hop.net/label-538-dezordr.html">Dezordr</a>)
+</h4>
+<p>Les acteurs fran&ccedil;ais de la sc&egrave;ne rap alternative sont plut&ocirc;t rares : quelques poign&eacute;es d'artistes et un nombre de labels qu'on pourrait quasiment compter sur les doigts d'une main. Dezordr Records fait partie de ces quelques irr&eacute;ductibles, et s'affaire &agrave; prouver depuis 2007 que tout ne se passe pas ...</p>
+<div class="der_miseenligne">Mise en ligne : 29 Février 2012</div>
+</div>
+<div class="chronique_home"><div class="groupe_jacquette"><a href="http://www.trip-hop.net/album-2327-brad-hamers-the-cut-ups-of-a-paper-woman-three-sides-of-a-circle.html"><img src="http://www.trip-hop.net/images/jacquettes/2327.jpg" alt="Brad Hamers - The cut-ups of a paper woman" title="Brad Hamers - The cut-ups of a paper woman" /></a></div>
+<img src="http://www.trip-hop.net/images/_design1/disque.png" width="47" height="88" alt="" class="disquesortant" /><h4><a href="http://www.trip-hop.net/groupe-1382-brad-hamers.html">Brad Hamers</a>
+ - <a href="http://www.trip-hop.net/album-2327-brad-hamers-the-cut-ups-of-a-paper-woman-three-sides-of-a-circle.html">The cut-ups of a paper woman</a> (<a href="http://www.trip-hop.net/label-632-three-sides-of-a-circle.html">Three sides of a circle</a>)
+</h4>
+<p>C'est devant la recrudescence de coms et de messages concernant Brad Hamers que je me d&eacute;cide &agrave; d&eacute;terrer le merveilleux Cut-Ups of a Paper Woman (recrudescence toute relative face &agrave; la d&eacute;ferlante facebook, on est bien d'accord). Mais quand m&ecirc;me. Brad Hamers marque les esprits, m&ecirc;me ici sur un site es...</p>
+<div class="der_miseenligne">Mise en ligne : 27 Février 2012</div>
+</div>
+<div class="chronique_home"><div class="groupe_jacquette"><a href="http://www.trip-hop.net/album-2469-a-native-hundred-down-to-your-hairs-decorative-stamp.html"><img src="http://www.trip-hop.net/images/jacquettes/2469.jpg" alt="A Native Hundred - Down to Your Hairs" title="A Native Hundred - Down to Your Hairs" /></a></div>
+<img src="http://www.trip-hop.net/images/_design1/disque.png" width="47" height="88" alt="" class="disquesortant" /><h4><a href="http://www.trip-hop.net/groupe-1453-a-native-hundred.html">A Native Hundred</a>
+ - <a href="http://www.trip-hop.net/album-2469-a-native-hundred-down-to-your-hairs-decorative-stamp.html">Down to Your Hairs</a> (<a href="http://www.trip-hop.net/label-537-decorative-stamp.html">Decorative stamp</a>)
+</h4>
+<p>A Native Hundred est le projet solo du chanteur et guitariste Rhys Jon Baker, co-leader de la formation post-rock anglaise Wild Dogs in Winter (avec son comp&egrave;re Luke Payne). Premier album solo (apr&egrave;s l'EP One Sung, One Spoke), Down to Your Hairs est une collection de chansons compos&eacute;es par Rhys, qui...</p>
+<div class="der_miseenligne">Mise en ligne : 22 Février 2012</div>
+</div>
+<div class="chronique_home"><div class="groupe_jacquette"><a href="http://www.trip-hop.net/album-2467-thesis-sahib-before-the-end-grimm-image.html"><img src="http://www.trip-hop.net/images/jacquettes/2467.jpg" alt="Thesis Sahib - Before The End" title="Thesis Sahib - Before The End" /></a></div>
+<img src="http://www.trip-hop.net/images/_design1/disque.png" width="47" height="88" alt="" class="disquesortant" /><h4><a href="http://www.trip-hop.net/groupe-1451-thesis-sahib.html">Thesis Sahib</a>
+ - <a href="http://www.trip-hop.net/album-2467-thesis-sahib-before-the-end-grimm-image.html">Before The End</a> (<a href="http://www.trip-hop.net/label-682-grimm-image.html">Grimm Image</a>)
+</h4>
+<p>Si c'est gr&acirc;ce &agrave; mon int&eacute;r&ecirc;t pour le cin&eacute;ma, et en particulier pour Wim Wenders, que j'ai d&eacute;couvert qu'il y avait une autre ville nomm&eacute;e Paris au Texas, c'est en faisant des recherches sur la musique et les origines de Thesis Sahib  que j'ai appris qu'il y avait un autre Londres  en Ontario, au Cana...</p>
+<div class="der_miseenligne">Mise en ligne : 20 Février 2012</div>
+</div>
+<div class="chronique_home"><div class="groupe_jacquette"><a href="http://www.trip-hop.net/album-2464-cyesm-weird-stories-good-citizen-factory.html"><img src="http://www.trip-hop.net/images/jacquettes/2464.jpg" alt="Cyesm - Weird stories" title="Cyesm - Weird stories" /></a></div>
+<img src="http://www.trip-hop.net/images/_design1/disque.png" width="47" height="88" alt="" class="disquesortant" /><h4><a href="http://www.trip-hop.net/groupe-1023-cyesm.html">Cyesm</a>
+ - <a href="http://www.trip-hop.net/album-2464-cyesm-weird-stories-good-citizen-factory.html">Weird stories</a> (<a href="http://www.trip-hop.net/label-442-good-citizen-factory.html">Good citizen factory</a>)
+</h4>
+<p>Ca fait un bail que je ne vous ai pas parl&eacute; de Cyesm. Plus d'un an ! Une &eacute;ternit&eacute; pour un artiste si productif. Il &eacute;tait donc plus que temps de reprendre de ces nouvelles.
+
+En effet, il revient en ce d&eacute;but d'ann&eacute;e avec Weird stories, peut-&ecirc;tre son meilleur.
+Il propose un trip-hop r&eacute;solument moder...</p>
+<div class="der_miseenligne">Mise en ligne : 18 Février 2012</div>
+</div>
+<div class="chronique_home"><div class="groupe_jacquette"><a href="http://www.trip-hop.net/album-2047-tomas-dvorak-machinarium-auto-production.html"><img src="http://www.trip-hop.net/images/jacquettes/2047.jpg" alt="Tomas Dvorak - Machinarium" title="Tomas Dvorak - Machinarium" /></a></div>
+<img src="http://www.trip-hop.net/images/_design1/disque.png" width="47" height="88" alt="" class="disquesortant" /><h4><a href="http://www.trip-hop.net/groupe-1202-tomas-dvorak.html">Tomas Dvorak</a>
+ - <a href="http://www.trip-hop.net/album-2047-tomas-dvorak-machinarium-auto-production.html">Machinarium</a> (<a href="http://www.trip-hop.net/label-175-auto-production.html">Auto-production</a>)
+</h4>
+<p>10US$, c'est le prix qu'il vous faudra d&eacute;bourser pour pouvoir jouir de cette petite perle de jeu vid&eacute;o qu'est Machinarium, et de sa bande son, tout aussi sublime.
+
+Machinarium c'est l'histoire d'un petit robot mimi-choupi tout plein, rong&eacute; par la rouille, les probl&egrave;mes m&eacute;caniques, &eacute;motionnels et l...</p>
+<div class="der_miseenligne">Mise en ligne : 15 Février 2012</div>
+</div>
+<div class="chronique_home"><div class="groupe_jacquette"><a href="http://www.trip-hop.net/album-2453-chill-bump-starting-from-scratch-ep-auto-production.html"><img src="http://www.trip-hop.net/images/jacquettes/2453.jpg" alt="Chill Bump - Starting from scratch EP" title="Chill Bump - Starting from scratch EP" /></a></div>
+<img src="http://www.trip-hop.net/images/_design1/disque.png" width="47" height="88" alt="" class="disquesortant" /><h4><a href="http://www.trip-hop.net/groupe-1448-chill-bump.html">Chill Bump</a>
+ - <a href="http://www.trip-hop.net/album-2453-chill-bump-starting-from-scratch-ep-auto-production.html">Starting from scratch EP</a> (<a href="http://www.trip-hop.net/label-175-auto-production.html">Auto-production</a>)
+</h4>
+<p>J'aime &agrave; critiquer r&eacute;guli&egrave;rement, lors de mes ap&eacute;ros prolong&eacute;s, les &quot;FANS&quot;. Mais si, vous savez ceux-l&agrave; m&ecirc;me qui ne jurent que par une poign&eacute;e d'artistes, et qui sont capables de sp&eacute;culer des ann&eacute;es auparavant sur la sortie d'un disque. L'alcool aidant, il est facile de se laisser aller au d&eacute;ballage...</p>
+<div class="der_miseenligne">Mise en ligne : 10 Février 2012</div>
+</div>
+<div class="chronique_home"><div class="groupe_jacquette"><a href="http://www.trip-hop.net/album-2449-nicknack-dearly-departed-crowd-control-records.html"><img src="http://www.trip-hop.net/images/jacquettes/2449.jpg" alt="NickNack - Dearly Departed" title="NickNack - Dearly Departed" /></a></div>
+<img src="http://www.trip-hop.net/images/_design1/disque.png" width="47" height="88" alt="" class="disquesortant" /><h4><a href="http://www.trip-hop.net/groupe-1446-nicknack.html">NickNack</a>
+ - <a href="http://www.trip-hop.net/album-2449-nicknack-dearly-departed-crowd-control-records.html">Dearly Departed</a> (<a href="http://www.trip-hop.net/label-678-crowd-control-records.html">Crowd Control Records</a>)
+</h4>
+<p>NickNack (Nicholas Malkiewicz) est un Texan, amateur de Hip-Hop, qui a fait ses armes de jeune turntablist au milieu des ann&eacute;es 90 en se frottant &agrave; d'autres DJ lors de &quot; Sound Battle &quot; &agrave; Dallas. Plus tard, il a &eacute;galement fait parti d'un groupe de Jazz : Blaze ! Avec lequel il a tourn&eacute; aux US, au Can...</p>
+<div class="der_miseenligne">Mise en ligne : 10 Février 2012</div>
+</div>
+<div class="chronique_home"><div class="groupe_jacquette"><a href="http://www.trip-hop.net/album-2448-soulfight-nighttime-birds-auto-production.html"><img src="http://www.trip-hop.net/images/jacquettes/2448.jpg" alt="Soulfight - Nighttime birds" title="Soulfight - Nighttime birds" /></a></div>
+<img src="http://www.trip-hop.net/images/_design1/disque.png" width="47" height="88" alt="" class="disquesortant" /><h4><a href="http://www.trip-hop.net/groupe-1445-soulfight.html">Soulfight</a>
+ - <a href="http://www.trip-hop.net/album-2448-soulfight-nighttime-birds-auto-production.html">Nighttime birds</a> (<a href="http://www.trip-hop.net/label-175-auto-production.html">Auto-production</a>)
+</h4>
+<p>Soulfight nous propose avec Nighttime birds 4 reprises en forme d'alternative downtempo &agrave; 4 standards d'hier et d'aujourd'hui. 4 reprises qui ne r&eacute;volutionneront fondamentalement pas nos platines. Un postulat qui pourrait m&ecirc;me clairement sentir le r&eacute;chauff&eacute; &agrave; la sauce f&ecirc;te de la musique entre potes ...</p>
+<div class="der_miseenligne">Mise en ligne : 08 Février 2012</div>
+</div>
+<div class="chronique_home"><div class="groupe_jacquette"><a href="http://www.trip-hop.net/album-2443-bleubird-cannonball-fake-four.html"><img src="http://www.trip-hop.net/images/jacquettes/2443.jpg" alt="Bleubird - CANNONBALL!!!" title="Bleubird - CANNONBALL!!!" /></a></div>
+<img src="http://www.trip-hop.net/images/_design1/disque.png" width="47" height="88" alt="" class="disquesortant" /><h4><a href="http://www.trip-hop.net/groupe-1441-bleubird.html">Bleubird</a>
+ - <a href="http://www.trip-hop.net/album-2443-bleubird-cannonball-fake-four.html">CANNONBALL!!!</a> (<a href="http://www.trip-hop.net/label-647-fake-four.html">Fake Four</a>)
+</h4>
+<p>Bleubird est un rappeur am&eacute;ricain hors du commun. Originaire de Floride mais baroudant sans cesse, il a v&eacute;cu aussi bien &agrave; Montr&eacute;al qu'&agrave; Berlin, enchainant les tourn&eacute;es y compris en Europe et en Asie. &quot;Traveling is in my blood&quot;, a-t-il d'ailleurs joliment confirm&eacute; il n'y pas si longtemps. L'oiseau es...</p>
+<div class="der_miseenligne">Mise en ligne : 05 Février 2012</div>
+</div>
+<div class="chronique_home"><div class="groupe_jacquette"><a href="http://www.trip-hop.net/album-2440-grasscut-1-inch-1-2-mile-ninja-tune.html"><img src="http://www.trip-hop.net/images/jacquettes/2440.jpg" alt="Grasscut - 1 inch / 1/2 mile" title="Grasscut - 1 inch / 1/2 mile" /></a></div>
+<img src="http://www.trip-hop.net/images/_design1/disque.png" width="47" height="88" alt="" class="disquesortant" /><h4><a href="http://www.trip-hop.net/groupe-1439-grasscut.html">Grasscut</a>
+ - <a href="http://www.trip-hop.net/album-2440-grasscut-1-inch-1-2-mile-ninja-tune.html">1 inch / 1/2 mile</a> (<a href="http://www.trip-hop.net/label-4-ninja-tune.html">Ninja Tune</a>)
+</h4>
+<p>En route pour un voyage &eacute;trange en compagnie de Marcus O'Dair et d'Andrew Phillips qui se sont unis pour nous livrer ce premier album ensemble.
+
+Etrange, parce que le duo sample des voix extraites de t&eacute;l&eacute;phones portables ou gramophones (t&eacute;nor des ann&eacute;es 20, m&egrave;res en plein comm&eacute;rage, promoteurs, ou...</p>
+<div class="der_miseenligne">Mise en ligne : 02 Février 2012</div>
+</div>
+<div class="chronique_home"><div class="groupe_jacquette"><a href="http://www.trip-hop.net/album-2442-emilie-simon-franky-knight-barclay.html"><img src="http://www.trip-hop.net/images/jacquettes/2442.jpg" alt="Emilie Simon - Franky Knight" title="Emilie Simon - Franky Knight" /></a></div>
+<img src="http://www.trip-hop.net/images/_design1/disque.png" width="47" height="88" alt="" class="disquesortant" /><h4><a href="http://www.trip-hop.net/groupe-202-emilie-simon.html">Emilie Simon</a>
+ - <a href="http://www.trip-hop.net/album-2442-emilie-simon-franky-knight-barclay.html">Franky Knight</a> (<a href="http://www.trip-hop.net/label-39-barclay.html">Barclay</a>)
+</h4>
+<p>N'ayant jamais eu la patience d'&eacute;couter un album de cette artiste fran&ccedil;aise, malgr&eacute; les critiques enthousiastes et &eacute;logieuses &agrave; son &eacute;gard, c'est avec r&eacute;serve mais aussi curiosit&eacute; que j'ai d&eacute;couvert cet album. Le titre Franky's princess, m'a incit&eacute; &agrave; passer ces r&eacute;serves.
+
+Quelle ne fut pas ma surpr...</p>
+<div class="der_miseenligne">Mise en ligne : 31 Janvier 2012</div>
+</div>
+<div class="chronique_home"><div class="groupe_jacquette"><a href="http://www.trip-hop.net/album-2429-jesse-dangerously-humble-and-brilliant-backburner.html"><img src="http://www.trip-hop.net/images/jacquettes/2429.jpg" alt="Jesse Dangerously - Humble &amp; Brilliant" title="Jesse Dangerously - Humble &amp; Brilliant" /></a></div>
+<img src="http://www.trip-hop.net/images/_design1/disque.png" width="47" height="88" alt="" class="disquesortant" /><h4><a href="http://www.trip-hop.net/groupe-1430-jesse-dangerously.html">Jesse Dangerously</a>
+ - <a href="http://www.trip-hop.net/album-2429-jesse-dangerously-humble-and-brilliant-backburner.html">Humble &amp; Brilliant</a> (<a href="http://www.trip-hop.net/label-674-backburner.html">Backburner</a>)
+</h4>
+<p>La sc&egrave;ne rap alternative est prolifique outre-Atlantique. Le Canada est situ&eacute; outre-Atlantique. La sc&egrave;ne rap alternative est donc prolifique au Canada. CQFD.
+Apr&egrave;s les chroniques des albums de Kay the Aquanaut et Factor, qui vous offrent une id&eacute;e de ce qu'est le &quot;rap des prairies&quot;, un terme employ&eacute;...</p>
+<div class="der_miseenligne">Mise en ligne : 27 Janvier 2012</div>
+</div>
+<div class="chronique_home"><div class="groupe_jacquette"><a href="http://www.trip-hop.net/album-2433-derfzen-take-a-look-at-you-auto-production.html"><img src="http://www.trip-hop.net/images/jacquettes/2433.jpg" alt="Derfzen - Take a look at you" title="Derfzen - Take a look at you" /></a></div>
+<img src="http://www.trip-hop.net/images/_design1/disque.png" width="47" height="88" alt="" class="disquesortant" /><h4><a href="http://www.trip-hop.net/groupe-1434-derfzen.html">Derfzen</a>
+ - <a href="http://www.trip-hop.net/album-2433-derfzen-take-a-look-at-you-auto-production.html">Take a look at you</a> (<a href="http://www.trip-hop.net/label-175-auto-production.html">Auto-production</a>)
+</h4>
+<p>La musique bien avant d'&ecirc;tre entendue commence par un nom, et vu qu'&agrave; la r&eacute;daction les noms on tendance &agrave; s'encha&icirc;ner Derfzen m'a forcement intrigu&eacute;, l'histoire de leur musique commence d&eacute;j&agrave; avec cette sonorit&eacute; &eacute;trange, ma curiosit&eacute; m'a pouss&eacute; directement &agrave; ouvrir la porte de leur univers.
+Belle ac...</p>
+<div class="der_miseenligne">Mise en ligne : 22 Janvier 2012</div>
+</div>
+<div class="chronique_home"><div class="groupe_jacquette"><a href="http://www.trip-hop.net/album-2388-chill-filtered-manifesting-the-vice-auto-production.html"><img src="http://www.trip-hop.net/images/jacquettes/2388.jpg" alt="Chill filtered - Manifesting the vice" title="Chill filtered - Manifesting the vice" /></a></div>
+<img src="http://www.trip-hop.net/images/_design1/disque.png" width="47" height="88" alt="" class="disquesortant" /><h4><a href="http://www.trip-hop.net/groupe-1410-chill-filtered.html">Chill filtered</a>
+ - <a href="http://www.trip-hop.net/album-2388-chill-filtered-manifesting-the-vice-auto-production.html">Manifesting the vice</a> (<a href="http://www.trip-hop.net/label-175-auto-production.html">Auto-production</a>)
+</h4>
+<p>D&egrave;s les premi&egrave;res secondes on est happ&eacute; par la magie &quot;bristolienne&quot; de Manifesting the Vice !
+
+Chill filtered est pourtant un groupe italien compos&eacute; de Enrico Ripalti, Christian del Baldo, Enrico Lucarini et Sara Rossi et qui se d&eacute;finit plus comme un groupe &eacute;lectro /alternative-pop.
+Mais franchem...</p>
+<div class="der_miseenligne">Mise en ligne : 18 Janvier 2012</div>
+</div>
+<div class="chronique_home"><div class="groupe_jacquette"><a href="http://www.trip-hop.net/album-2418-factor-factor-and-the-chandeliers-ep-fake-four.html"><img src="http://www.trip-hop.net/images/jacquettes/2418.jpg" alt="Factor - Factor &amp; The Chandeliers EP" title="Factor - Factor &amp; The Chandeliers EP" /></a></div>
+<img src="http://www.trip-hop.net/images/_design1/disque.png" width="47" height="88" alt="" class="disquesortant" /><h4><a href="http://www.trip-hop.net/groupe-1424-factor.html">Factor</a>
+ - <a href="http://www.trip-hop.net/album-2418-factor-factor-and-the-chandeliers-ep-fake-four.html">Factor &amp; The Chandeliers EP</a> (<a href="http://www.trip-hop.net/label-647-fake-four.html">Fake Four</a>)
+</h4>
+<p>Perp&eacute;tuellement en tourn&eacute;e ou produisant des beats pour de nombreux artistes, en quelques ann&eacute;es le canadien Factor est devenu un beatmaker tr&egrave;s pris&eacute; et reconnu du milieu underground. Producteur &quot;new school&quot; original et favori de cette vague, il a d'innombrables collaborations &agrave; son actif toujours ...</p>
+<div class="der_miseenligne">Mise en ligne : 16 Janvier 2012</div>
+</div>
+<div class="chronique_home"><div class="groupe_jacquette"><a href="http://www.trip-hop.net/album-2432-tetra-hydro-k-indigestion-de-tofu-7lakes.html"><img src="http://www.trip-hop.net/images/jacquettes/2432.jpg" alt="Tetra hydro K. - Indigestion de Tofu" title="Tetra hydro K. - Indigestion de Tofu" /></a></div>
+<img src="http://www.trip-hop.net/images/_design1/disque.png" width="47" height="88" alt="" class="disquesortant" /><h4><a href="http://www.trip-hop.net/groupe-1263-tetra-hydro-k.html">Tetra hydro K.</a>
+ - <a href="http://www.trip-hop.net/album-2432-tetra-hydro-k-indigestion-de-tofu-7lakes.html">Indigestion de Tofu</a> (<a href="http://www.trip-hop.net/label-543-7lakes.html">7Lakes</a>)
+</h4>
+<p>Parce qu'un discours court et dense sera souvent plus percutant qu'un long et ennuyeux monologue, cette r&egrave;gle peut &eacute;videmment s'appliquer &agrave; la cr&eacute;ation musicale pour le plus grand bonheur de nos oreilles. Et vaut bien s&ucirc;r &agrave; l'&eacute;criture d'une chronique. Une formule que s'est aussi fait sienne Tetro Hy...</p>
+<div class="der_miseenligne">Mise en ligne : 16 Janvier 2012</div>
+</div>
+<div class="chronique_home"><div class="groupe_jacquette"><a href="http://www.trip-hop.net/album-2431-kay-the-aquanaut-waterloo-circle-into-square.html"><img src="http://www.trip-hop.net/images/jacquettes/2431.jpg" alt="Kay the Aquanaut - Waterloo" title="Kay the Aquanaut - Waterloo" /></a></div>
+<img src="http://www.trip-hop.net/images/_design1/disque.png" width="47" height="88" alt="" class="disquesortant" /><h4><a href="http://www.trip-hop.net/groupe-1433-kay-the-aquanaut.html">Kay the Aquanaut</a>
+ - <a href="http://www.trip-hop.net/album-2431-kay-the-aquanaut-waterloo-circle-into-square.html">Waterloo</a> (<a href="http://www.trip-hop.net/label-482-circle-into-square.html">Circle Into Square</a>)
+</h4>
+<p>Le Canada est un bien beau pays, mais c'est aussi une sacr&eacute;e r&eacute;serve d'artistes de la sc&egrave;ne hip-hop ind&eacute;, c'est av&eacute;r&eacute; (et vous commencez &agrave; vous douter que c'est de ces derniers qu'on va s'entretenir ici..) Et en l'occurrence d'un sp&eacute;cimen particulier, Kay the Aquanaut, MC de son &eacute;tat, originaire de ...</p>
+<div class="der_miseenligne">Mise en ligne : 15 Janvier 2012</div>
+</div>
+<div class="chronique_home"><div class="groupe_jacquette"><a href="http://www.trip-hop.net/album-2430-proleter-curses-from-past-times-ep-auto-production.html"><img src="http://www.trip-hop.net/images/jacquettes/2430.jpg" alt="ProleteR - Curses from past times (EP)" title="ProleteR - Curses from past times (EP)" /></a></div>
+<img src="http://www.trip-hop.net/images/_design1/disque.png" width="47" height="88" alt="" class="disquesortant" /><h4><a href="http://www.trip-hop.net/groupe-1432-proleter.html">ProleteR</a>
+ - <a href="http://www.trip-hop.net/album-2430-proleter-curses-from-past-times-ep-auto-production.html">Curses from past times (EP)</a> (<a href="http://www.trip-hop.net/label-175-auto-production.html">Auto-production</a>)
+</h4>
+<p>J'avais d&eacute;couvert ProleteR suite &agrave; quelques vid&eacute;os post&eacute;es sur youtube, il y maintenant plusieurs semaines. Distrait &agrave; l'&eacute;poque, l'&eacute;coute d'une oreille, avait quand m&ecirc;me attis&eacute; ma curiosit&eacute;, au point de noter de m'y replonger pleinement une fois la sortie du format annonc&eacute; par le beatmaker toulousai...</p>
+<div class="der_miseenligne">Mise en ligne : 07 Janvier 2012</div>
+</div>
+<p class="suite"><a href="http://www.trip-hop.net/derniersajouts-1.html#dernieres-chroniques">suivants</a></p></div>
+<div id="autres-ajouts">
+<h3>Autres ajouts</h3><a href="http://www.trip-hop.net/album-2489-prajna-leveil-prikosnovenie.html"><img src="http://www.trip-hop.net/images/jacquettes/2489.jpg" alt="Prajna - L'éveil" title="Prajna - L'éveil" /></a>
+<a href="http://www.trip-hop.net/album-2485-ana-ces-roses-flotteront-sur-locean-auto-production.html"><img src="http://www.trip-hop.net/images/jacquettes/2485.jpg" alt="Aña - Ces roses flotteront sur l'océan..." title="Aña - Ces roses flotteront sur l'océan..." /></a>
+<a href="http://www.trip-hop.net/album-2483-joachim-de-lux-mosaique-auto-production.html"><img src="http://www.trip-hop.net/images/jacquettes/2483.jpg" alt="Joachim de lux - Mosaïque" title="Joachim de lux - Mosaïque" /></a>
+<a href="http://www.trip-hop.net/album-2482-versive-and-noventa-dissonant-dissidence-auto-production.html"><img src="http://www.trip-hop.net/images/jacquettes/2482.jpg" alt="Versive &amp; Noventa - Dissonant dissidence" title="Versive &amp; Noventa - Dissonant dissidence" /></a>
+<a href="http://www.trip-hop.net/album-2481-sorg-preface-ep-auto-production.html"><img src="http://www.trip-hop.net/images/jacquettes/2481.jpg" alt="Sorg - Preface (ep)" title="Sorg - Preface (ep)" /></a>
+<a href="http://www.trip-hop.net/album-2480-melodium-petit-jama-auto-production.html"><img src="http://www.trip-hop.net/images/jacquettes/2480.jpg" alt="Melodium - Petit jama" title="Melodium - Petit jama" /></a>
+<a href="http://www.trip-hop.net/album-2479-melodium-coloribus-auto-production.html"><img src="http://www.trip-hop.net/images/jacquettes/2479.jpg" alt="Melodium - Coloribus" title="Melodium - Coloribus" /></a>
+<a href="http://www.trip-hop.net/album-2478-melodium-the-island-auto-production.html"><img src="http://www.trip-hop.net/images/jacquettes/2478.jpg" alt="Melodium - The island" title="Melodium - The island" /></a>
+<a href="http://www.trip-hop.net/album-2473-leaf-prophets-are-lost-data-auto-production.html"><img src="http://www.trip-hop.net/images/jacquettes/2473.jpg" alt="Leaf - Prophets are lost data" title="Leaf - Prophets are lost data" /></a>
+<a href="http://www.trip-hop.net/album-2472-leaf-made-into-itself-auto-production.html"><img src="http://www.trip-hop.net/images/jacquettes/2472.jpg" alt="Leaf - Made into itself" title="Leaf - Made into itself" /></a>
+<a href="http://www.trip-hop.net/album-2470-pol-homo-auto-production.html"><img src="http://www.trip-hop.net/images/jacquettes/2470.jpg" alt="Pol - Homo" title="Pol - Homo" /></a>
+<a href="http://www.trip-hop.net/album-2468-dj-scientist-the-artless-cuckoo-ep-equinox.html"><img src="http://www.trip-hop.net/images/jacquettes/2468.jpg" alt="DJ scientist - The artless cuckoo (EP)" title="DJ scientist - The artless cuckoo (EP)" /></a>
+<p class="suite"><a href="http://www.trip-hop.net/derniersajouts-1.html#autres-ajouts">suivants</a></p></div>
+<div class="spacer">&nbsp;</div>
+</div>
+<div id="centrebas"></div>
+</div>
+<div id="droite">
+<div id="droitehaut"></div>
+<div id="droitemilieu">
+
+ <div id="montriphop">
+ <h2><a href="http://www.trip-hop.net/montriphopnet.html">Mon Trip-Hop.net</a></h2>
+
+<script language="javascript" type="text/javascript" src="http://www.trip-hop.net/include/login.js"></script><script language="javascript" type="text/javascript" src="http://www.trip-hop.net/include/form.js"></script><div class="formulaire_min">
+<form name="ident" method="post" action="http://www.trip-hop.net/login.php?action=ident" onsubmit="javascript:unclic('ident');" >
+<input type="hidden" id="referer" name="referer" value="/derniersajouts.php?page=0" /><input id="login" name="login" type="text" size="15" class="textbox" value="Pseudo" onfocus="this.value=''" />
+<br /><input id="pass" name="pass" type="password" size="15" class="textbox" value="Mot de passe" onfocus="this.value=''" />
+<br /><input id="memoriser" name="memoriser" type="checkbox" checked="checked" /> Mémoriser
+<input type="submit" name="envoyer" value="se connecter" class="bouton_min" />
+</form>
+</div>
+<ul>
+<li><a href="http://www.trip-hop.net/inscription.html">s'inscrire</a></li>
+</ul>
+ </div>
+ <h2><a href="http://www.trip-hop.net/mp3audiovideo.html">MP3 / Vidéo</a></h2>
+ <ul>
+ <li><a href="http://www.trip-hop.net/mp3.html">MP3s</a></li>
+
+ <li><a href="http://www.trip-hop.net/videos.html">Vidéos</a></li>
+ <li><a href="http://www.trip-hop.net/mixes.html">mixes en écoute</a></li>
+ <li><a href="http://www.trip-hop.net/emissionsfm.html">émissions FM</a></li>
+
+ </ul>
+
+ <h2><a href="http://www.trip-hop.net/communaute.html">Communauté</a></h2>
+<div id="membreenligne">20 visiteurs en ligne.</div>
+  <ul>
+ <li><a href="http://www.trip-hop.net/playlists.html">vos playlists</a></li>
+ <li><a href="http://www.trip-hop.net/commentaires.html">vos commentaires</a></li>
+
+ <li><a href="http://www.trip-hop.net/remerciements.html">vos remerciements</a></li>
+ <li><a href="http://www.trip-hop.net/forum/">tous les forums</a></li>
+ <li><a href="http://www.trip-hop.net/forum/list.php?f=1">principal (musique)</a></li>
+ <li><a href="http://www.trip-hop.net/forum/list.php?f=2">petites annonces</a></li>
+ <li><a href="http://www.trip-hop.net/forum/list.php?f=7">création musicale / MAO</a></li>
+ <li><a href="http://www.trip-hop.net/chat.html">chat</a></li>
+ </ul>
+ <h2><a href="http://www.trip-hop.net/liens.html">Liens</a></h2>
+ <ul>
+ <li><a href="http://www.trip-hop.net/nosvisuels.html">Faire un lien / Nos visuels</a></li>
+ <li><a href="http://www.trip-hop.net/fonds-ecran.html">Nos fonds d'écran</a></li>
+ </ul>
+ <h2><a href="http://www.trip-hop.net/concours.html">Jeux - concours</a></h2>
+  
+<div class="vignettes">
+<script type='text/javascript'><!--//<![CDATA[
+   var m3_u = (location.protocol=='https:'?'https://partage.trip-hop.net/openx/www/delivery/ajs.php':'http://partage.trip-hop.net/openx/www/delivery/ajs.php');
+   var m3_r = Math.floor(Math.random()*99999999999);
+   if (!document.MAX_used) document.MAX_used = ',';
+   document.write ("<scr"+"ipt type='text/javascript' src='"+m3_u);
+   document.write ("?zoneid=2");
+   document.write ('&amp;cb=' + m3_r);
+   if (document.MAX_used != ',') document.write ("&amp;exclude=" + document.MAX_used);
+   document.write (document.charset ? '&amp;charset='+document.charset : (document.characterSet ? '&amp;charset='+document.characterSet : ''));
+   document.write ("&amp;loc=" + escape(window.location));
+   if (document.referrer) document.write ("&amp;referer=" + escape(document.referrer));
+   if (document.context) document.write ("&context=" + escape(document.context));
+   if (document.mmm_fo) document.write ("&amp;mmm_fo=1");
+   document.write ("'><\/scr"+"ipt>");
+//]]>--></script><noscript><a href='http://partage.trip-hop.net/openx/www/delivery/ck.php?n=aeb484d2&amp;cb=789092' target='_blank'><img src='http://partage.trip-hop.net/openx/www/delivery/avw.php?zoneid=2&amp;cb=789092&amp;n=aeb484d2' border='0' alt='' /></a></noscript>
+</div>
+  
+    	<div id="navig_flux">
+		<a href="http://www.trip-hop.net/rss.html"><img src="http://www.trip-hop.net/images/add2netvibes.gif" width="76" height="17" alt="Ajouter nos flux rss à votre Netvibes" title="Ajouter nos flux rss à votre Netvibes" /></a>
+		<a href="http://www.trip-hop.net/rss.html"><img src="http://www.trip-hop.net/images/add2yahoo.gif" width="69" height="17" alt="Ajouter nos flux rss à votre Yahoo!" title="Ajouter nos flux rss à votre Yahoo!" /></a>
+		<a href="http://www.trip-hop.net/rss.html"><img src="http://www.trip-hop.net/images/add2google.gif" width="69" height="17" alt="Ajouter nos flux rss à votre Google" title="Ajouter nos flux rss à votre Google" /></a>
+	</div>
+</div>
+<div id="droitebas"></div>
+</div>
+<div class="spacer">&nbsp;</div>
+</div>
+
+<div id="pied">
+<span>
+<a id="pied_ico_contact" href="http://www.trip-hop.net/contact.html" accesskey="7">Contactez-nous</a>
+<a id="pied_ico_quisommes" href="http://www.trip-hop.net/infos.html">Qui sommes-nous ?</a>
+<a id="pied_ico_equipe" href="http://www.trip-hop.net/equipe.html">Equipe / Crédits</a>
+<a id="pied_ico_legal" href="http://www.trip-hop.net/mentionslegales.html" accesskey="8">Mentions légales</a>
+<a id="pied_ico_soutien" href="http://www.trip-hop.net/soutien.html">Soutenez-nous!</a>
+<a id="pied_ico_rss" href="http://www.trip-hop.net/rss.html">Flux RSS</a>
+</span><br />
+<span>&copy; 1999-2012 Trip-Hop.net - Webmaster : <a id="pied_ico_webmaster" href="http://www.tvacher.com/">Thibaut VACHER</a> |
+
+<a href="/blog/">blog</a> |
+<a href="http://www.micro-t-losi.fr">Micro-T Losi</a> |
+<a href="http://www.radio-spektrum.fr/">Spektrum</a>  |
+<a href="http://www.milleniumrc.fr/">Mod&eacute;lisme</a>  |
+<a href="http://www.esky-helico.fr/">Helico Esky</a>
+- Designer : <a href="http://www.sub88.com">sub88</a> - V5.0</span>
+
+<div id="bas_droite"><a href="http://www.mozilla-europe.org/fr/products/firefox/">
+<img src="http://www.trip-hop.net/images/firefox.png" alt="" title="Trip-Hop.net est optimisé pour le navigateur FireFox" /></a>
+</div>
+
+
+<div id="liens_bas">
+	<a href="http://www.virb.com/triphopnet" lang="en">
+		<img src="http://www.trip-hop.net/images/virb.png" alt="Virb" title="Ajoutez-nous à vos amis sur Virb" width="81" height="32" />
+	</a>&nbsp;
+	<a href="http://www.lastfm.fr/group/Trip-Hop.net" lang="fr">
+		<img src="http://www.trip-hop.net/images/lastfm.png" alt="LastFM" title="Rejoignez le groupe Trip-Hop.net sur LastFM" width="80" height="32" />
+	</a>	
+</div>
+</div>
+
+
+
+</div>
+
+</body>
+</html>

@@ -1,0 +1,7 @@
+/*.cfg
+/seen.txt
+*~
+*.orig
+*.pyc
+*.pyo
+
